@@ -69,7 +69,7 @@ public class ListaDeExercicios {
     }
 
     // Exercicio 03
-    private static void calcula448210702rDelta(double a, double b, double c) {
+    private static void calcularDelta(double a, double b, double c) {
         //double delta = (b*b) - 4*a*c;
         // Math.pow
         double delta = Math.pow(b, 2) - 4 * a * c;
