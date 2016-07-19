@@ -2,10 +2,6 @@ package Metodos;
 
 import java.util.Random;
 
-/**
- *
- * @author jonathan
- */
 public class ListaDeExercicios {
 
     public static void main(String[] args) {
